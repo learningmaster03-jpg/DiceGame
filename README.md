@@ -2,7 +2,7 @@
 Fun two‑player Dice Game built with JavaScript, HTML, and CSS. Roll dice, hold scores, and race to 100 points. Showcases DOM manipulation, event handling, and clean UI design as part of my portfolio projects.
 # Dice Game 🎲
 
-A fun two-player dice game built with **vanilla JavaScript, HTML, and CSS**. Players roll dice, hold scores, and race to reach 100 points.
+A fun two-player dice game built with **JavaScript, HTML, and CSS**. Players roll dice, hold scores, and race to reach 100 points.
 
 ## 🚀 Features
 - Two-player turn-based gameplay
@@ -14,7 +14,7 @@ A fun two-player dice game built with **vanilla JavaScript, HTML, and CSS**. Pla
 This project demonstrates core JavaScript concepts such as DOM manipulation, event handling, and game logic. Built as part of my portfolio to showcase practical coding skills.
 
 ## 🖼️ Demo
-![Uploading image.png…]()
+assets/demo.png
 
 (Add screenshot or GIF here)
 
