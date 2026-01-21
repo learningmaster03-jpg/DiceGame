@@ -14,6 +14,8 @@ A fun two-player dice game built with **vanilla JavaScript, HTML, and CSS**. Pla
 This project demonstrates core JavaScript concepts such as DOM manipulation, event handling, and game logic. Built as part of my portfolio to showcase practical coding skills.
 
 ## 🖼️ Demo
+![Uploading image.png…]()
+
 (Add screenshot or GIF here)
 
 ## ⚙️ How to Run
