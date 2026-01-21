@@ -1,6 +1,6 @@
 # DiceGame
 Fun two‑player Dice Game built with JavaScript, HTML, and CSS. Roll dice, hold scores, and race to 100 points. Showcases DOM manipulation, event handling, and clean UI design as part of my portfolio projects.
-# Pig Game 🎲
+# Dice Game 🎲
 
 A fun two-player dice game built with **vanilla JavaScript, HTML, and CSS**. Players roll dice, hold scores, and race to reach 100 points.
 
